@@ -23,7 +23,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.tutorialroom.data.model.Contact
+import com.example.tutorialroom.data.local.entity.Contact
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

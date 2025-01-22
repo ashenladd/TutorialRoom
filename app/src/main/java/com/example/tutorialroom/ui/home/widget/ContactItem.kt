@@ -17,7 +17,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.tutorialroom.data.model.Contact
+import com.example.tutorialroom.data.local.entity.Contact
 
 @Composable
 fun ContactItem(

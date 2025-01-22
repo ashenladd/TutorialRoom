@@ -12,7 +12,6 @@ import com.example.tutorialroom.ui.splash.SplashScreen
 // Main Navigation Component
 @Composable
 fun AppNavigation() {
-    val context = LocalContext.current
     val navController = rememberNavController()
 
     NavHost(
